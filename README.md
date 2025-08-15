@@ -18,7 +18,7 @@ Whether you want to have natural conversations, get instant information, generat
 
 ## 📥 Download
 
-[**⬇ Click here to download the latest APK**](https://github.com/USERNAME/REPO_NAME/releases/latest/download/MitraAI-v1.0.0.apk)
+[**⬇ Click here to download the latest APK**](https://github.com/MITRA0616/Mitra_bot/releases/download/v1.0.0/app-release.apk)
 
 ---
 
@@ -58,8 +58,8 @@ Whether you want to have natural conversations, get instant information, generat
 Since this is the **initial release**, you may encounter some bugs or performance issues.  
 Your feedback is valuable in helping us improve Mitra AI.
 
-- 🐞 Report issues: [GitHub Issues](https://github.com/USERNAME/REPO_NAME/issues)
-- 💡 Suggest features: [GitHub Discussions](https://github.com/USERNAME/REPO_NAME/discussions)
+- 🐞 Report issues: [GitHub Issues](https://github.com/MITRA0616/Mitra_bot/issues)
+- 💡 Suggest features: [GitHub Discussions](https://github.com/MITRA0616/Mitra_bot/discussions)
 
 ---
 
