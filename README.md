@@ -18,7 +18,7 @@ Whether you want to have natural conversations, get instant information, generat
 
 ## 📥 Download
 
-[**⬇ Click here to download the latest APK**](https://github.com/MITRA0616/Mitra_bot/releases/download/v1.0.0/app-release.apk)
+[**⬇ Click here to download the latest APK**](https://github.com/MITRA0616/Mitra_bot/releases/download/v1.0.0/MITRA.apk)
 
 ---
 
